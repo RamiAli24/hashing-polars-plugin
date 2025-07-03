@@ -30,12 +30,12 @@ def test_hashing():
                 "MRN-2024-003456",
                 "MRN-2023-007890",
             ],
-            "hashed_mrn": [
-                "31190444c8cb2bc0a1b48c82dbd165bf8544b11c5088066a1c79868cc45e6f13",
-                "29f1ca863776956e3cc3b35ae2fd362988463c9b017cdc2fc647c45e0b819a33",
-                "173f522721e228f2af97da70e8b31f8da65a05f1405f5ef038ee045bb77fab9c",
-                "e3f8cc8b95f96e84a9bb32a964fe26b19c4b9bd3a0e5dbe093dfd79b6a4e3027",
-                "1cef2f644a9a7cf8f3c9ffcbfcc61f8bcaa3777b801ab8332f0a19a253c9c8f0",
+            "hashed_mrn": [ 
+              '45f447ca7d79acab6fd97db9409ccfcbb21c80c97ff46890ac6bd5b6e94788c5',
+              'e2821f7c9df02d22ec059486352902784675c257410214666d9a9595dd130322',
+              'a6c487458e640fec3a30d1531404f4d6f9d6af5d7ed7d8afcd15375951ac0f99',
+              '32db4af0559ece55aa2f82d6b4535d435cffcbb51715e5f6607bca4e0f47847b',
+              '1c1ad43764a60a822a1f57b53e3496447f5a03056e01da8e1d604287ff7c14b8'
             ],
         }
     )

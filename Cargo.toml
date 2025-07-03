@@ -14,3 +14,5 @@ serde = { version = "1", features = ["derive"] }
 polars = { version = "0.46.0", default-features = false }
 polars-arrow = { version = "0.46.0", default-features = false }
 sha2 = "0.10.9"
+hmac = "0.12"
+hex = "0.4"
